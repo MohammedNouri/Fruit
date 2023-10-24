@@ -7,6 +7,6 @@ public class Fruit {
     public void Affiche(){
     }
     public void AffichePoids(){
-
+        System.out.println("Hello fruit");
     }
 }
